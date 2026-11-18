@@ -1,0 +1,7 @@
+MI NIÑA PRECIOSA
+
+Proyecto independiente. Abre index.html en tu navegador o con Live Server.
+Contiene seis fotos (foto1 a foto6), música local y un cubo 3D interactivo.
+El navegador puede bloquear el sonido automático hasta el primer toque.
+Para publicar, sube el contenido de esta carpeta a un repositorio NUEVO.
+No reemplaces el repositorio de tu proyecto anterior.
